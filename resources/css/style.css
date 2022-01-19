@@ -15,3 +15,7 @@ div {
   text-align: center;
   margin-bottom: 30px;
 }
+.landscape, .iphone {
+  min-height: 200px;
+  vertical-align: middle;
+}
